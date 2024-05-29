@@ -1,7 +1,7 @@
-organice/account/LoginIn.class
-organice/account/AccountIn$AccountInBuilder.class
-organice/account/AccountIn.class
-organice/account/LoginIn$LoginInBuilder.class
-organice/account/AccountOut$AccountOutBuilder.class
-organice/account/AccountOut.class
-organice/account/AccountController.class
+organice\account\AccountController.class
+organice\account\AccountIn$AccountInBuilder.class
+organice\account\LoginIn$LoginInBuilder.class
+organice\account\LoginIn.class
+organice\account\AccountOut.class
+organice\account\AccountIn.class
+organice\account\AccountOut$AccountOutBuilder.class
